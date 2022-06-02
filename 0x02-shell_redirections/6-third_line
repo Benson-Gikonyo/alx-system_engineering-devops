@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'NR==2' iata
+cat iacta | head -3 | tail -1
