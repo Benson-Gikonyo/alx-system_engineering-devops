@@ -25,3 +25,7 @@ Task 10: script that changes the working directory to the previous one.
 task 11: script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 
 Task 12:  script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+
+Task 13: symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory. 
+
+
