@@ -12,3 +12,4 @@ Task 5: Display current directory contents, including hidden files (starting wit
 
 Task 6: Display current directory contents in long format, with user and group IDs displayed numerically, and hidden files (starting with .)
  
+Task 7: script that creates a directory named my_first_directory in the /tmp/ directory.
