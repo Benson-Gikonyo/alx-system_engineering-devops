@@ -5,3 +5,5 @@ Task 0: script that prints the absolute path name of the current working directo
 Task 1: Display the contents list of your current directory.
 
 Task 3:  script that changes the working directory to the user’s home directory. No shell variables used.
+
+Task 4: Script that Display current directory contents in a long format.
