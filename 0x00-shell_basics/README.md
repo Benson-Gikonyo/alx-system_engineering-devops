@@ -9,3 +9,6 @@ Task 3:  script that changes the working directory to the user’s home director
 Task 4: Script that Display current directory contents in a long format.
 
 Task 5: Display current directory contents, including hidden files (starting with .). Use the long format.
+
+Task 6: Display current directory contents in long format, with user and group IDs displayed numerically, and hidden files (starting with .)
+ 
