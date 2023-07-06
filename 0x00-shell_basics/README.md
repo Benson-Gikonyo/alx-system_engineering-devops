@@ -15,3 +15,5 @@ Task 6: Display current directory contents in long format, with user and group I
 Task 7: script that creates a directory named my_first_directory in the /tmp/ directory.
 
 Task 8: script that moves the file betty from /tmp/ to /tmp/my_first_directory.
+
+Task 9: script that Delete the file betty in the /tmp/my_first_directory
