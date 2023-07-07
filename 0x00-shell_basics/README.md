@@ -34,3 +34,5 @@ You can consider that all HTML files have the extension .html
 Task 15: script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
 Task 16:  script that deletes all files in the current working directory that end with the character ~.
+
+Task 17: script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. with two spaces (and lines) in your script only
