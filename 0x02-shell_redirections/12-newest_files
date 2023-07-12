@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -maxdepth 0 | ls - 1 -t
+find . -type f | ls -tc -1
