@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -inf "*root*" /etc/passwd
+grep -infA "*root*" /etc/passwd
