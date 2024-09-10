@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# print 'Best School' 10 times with a while loop
+# Say 'Hi' on 9th loop
+num=1
+
+while ((num<11));
+do
+    if ((num==9));
+    then
+        echo "Hi"
+    else 
+        echo "Best School"
+    fi
+    ((num++))
+done
