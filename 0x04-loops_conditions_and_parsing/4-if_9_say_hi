@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # print 'Best School' 10 times with a while loop
-# Say 'Hi' on 9th loop
-num=1
+# Say 'Hi' on last loop, then Best School afterwards
+num=0
 
-while ((num<11));
+while ((num<10));
 do
     if ((num==9));
     then
@@ -13,3 +13,4 @@ do
     fi
     ((num++))
 done
+echo "Best School"
