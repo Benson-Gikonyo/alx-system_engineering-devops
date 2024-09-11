@@ -7,20 +7,22 @@ num=1
 
 while ((num<21));
 do
-    if ((num==4));
-    then
+    case $num in
+    4)
         echo $num
         echo "then bad luck from China"
-    elif ((num==9));
-    then
+    ;;
+    9)
         echo $num
         echo "bad luck from Japan"
-    elif ((num==17));
-    then
+    ;;
+    17)
         echo $num
         echo "bad luck from Italy"
-    else 
+    ;;
+    *) 
         echo $num
-    fi
+    ;;
+    esac
     ((num++))
 done
