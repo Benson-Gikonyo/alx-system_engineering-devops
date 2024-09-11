@@ -36,3 +36,7 @@ Task 8: Write a Bash script that displays:
 Task 9: Write a Bash script that gives you information about the school file.
 
 Task 10: Fizzbuzz test.
+
+Task 11: Write a Bash script that displays the content of the file /etc/passwd.
+
+Task 12: Write a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
