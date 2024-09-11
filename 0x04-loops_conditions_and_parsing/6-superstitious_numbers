@@ -10,7 +10,7 @@ do
     case $num in
     4)
         echo $num
-        echo "then bad luck from China"
+        echo "bad luck from China"
     ;;
     9)
         echo $num
