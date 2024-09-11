@@ -6,10 +6,10 @@ num=0
 
 while ((num<10));
 do
-    if ((num==4));
+    if ((num==3));
     then
         echo "bad luck"
-    elif ((num==8));
+    elif ((num==7));
     then
         echo "good luck"
     else 
