@@ -9,10 +9,18 @@ Task 2: Using your previous exercise command, write a Bash script that displays 
 
 Task 3: Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
 
-Task 4: Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
+Task 4: Write a Bash script that displays To infinity and beyond indefinitely. 
+
+Task 5: Write a Bash script that stops 4-to_infinity_and_beyond process.
+
+Task 6:Write a Bash script that stops 4-to_infinity_and_beyond process.
 
 Task 7: Write a Bash script that displays:
 
     To infinity and beyond indefinitely
     With a sleep 2 in between each iteration
     I am invincible!!! when receiving a SIGTERM signal
+
+Task 8: Write a Bash script that kills the process 7-highlander.
+
+Task 9: 
