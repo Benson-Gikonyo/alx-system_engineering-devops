@@ -10,3 +10,9 @@ Task 2: Using your previous exercise command, write a Bash script that displays 
 Task 3: Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
 
 Task 4: Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
+
+Task 7: Write a Bash script that displays:
+
+    To infinity and beyond indefinitely
+    With a sleep 2 in between each iteration
+    I am invincible!!! when receiving a SIGTERM signal
