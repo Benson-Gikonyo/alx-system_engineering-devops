@@ -44,3 +44,12 @@ Task 12: Write a Bash script that displays the content of the file /etc/passwd, 
 Task 13: Write a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
 
 Requirement:Format: IP HTTP_CODE in a list format
+
+Task 14: write a Bash script that groups visitors by IP and HTTP status code, and displays this data.
+
+Requirements:
+
+    The exact format must be:
+        OCCURENCE_NUMBER IP HTTP_CODE
+        In list format
+    Ordered from the greatest to the lowest number of occurrences 
