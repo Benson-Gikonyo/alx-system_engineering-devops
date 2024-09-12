@@ -40,3 +40,7 @@ Task 10: Fizzbuzz test.
 Task 11: Write a Bash script that displays the content of the file /etc/passwd.
 
 Task 12: Write a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
+
+Task 13: Write a Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
+
+Requirement:Format: IP HTTP_CODE in a list format
